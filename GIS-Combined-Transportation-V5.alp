@@ -4092,7 +4092,7 @@ System.out.println("truck数量" + trucks.size());]]></ActionCode>
 						<Font Name="Dialog" Size="11" Style="0"/>
 						<DefaultValueCode><![CDATA[10]]></DefaultValueCode>
 						<MinValue><![CDATA[1]]></MinValue>
-						<MaxValue><![CDATA[100]]></MaxValue>
+						<MaxValue><![CDATA[200]]></MaxValue>
 						<LinkTo>true</LinkTo>
 						<Link>truckType2Multiplier</Link>
 					</ExtendedProperties>
@@ -4180,7 +4180,7 @@ System.out.println("truck数量" + trucks.size());]]></ActionCode>
 						<Font Name="Dialog" Size="11" Style="0"/>
 						<DefaultValueCode><![CDATA[10]]></DefaultValueCode>
 						<MinValue><![CDATA[1]]></MinValue>
-						<MaxValue><![CDATA[100]]></MaxValue>
+						<MaxValue><![CDATA[200]]></MaxValue>
 						<LinkTo>true</LinkTo>
 						<Link>truckType0Multiplier</Link>
 					</ExtendedProperties>
@@ -4247,7 +4247,7 @@ System.out.println("truck数量" + trucks.size());]]></ActionCode>
 						<Font Name="Dialog" Size="11" Style="0"/>
 						<DefaultValueCode><![CDATA[10]]></DefaultValueCode>
 						<MinValue><![CDATA[1]]></MinValue>
-						<MaxValue><![CDATA[100]]></MaxValue>
+						<MaxValue><![CDATA[200]]></MaxValue>
 						<LinkTo>true</LinkTo>
 						<Link>truckType1Multiplier</Link>
 					</ExtendedProperties>
@@ -4317,7 +4317,7 @@ nullNumCheck();]]></ActionCode>
 						<Font Name="Dialog" Size="11" Style="0"/>
 						<DefaultValueCode><![CDATA[10]]></DefaultValueCode>
 						<MinValue><![CDATA[truckType2Multiplier]]></MinValue>
-						<MaxValue><![CDATA[100]]></MaxValue>
+						<MaxValue><![CDATA[200]]></MaxValue>
 						<LinkTo>true</LinkTo>
 						<Link>area27TruckMultiplier</Link>
 					</ExtendedProperties>
